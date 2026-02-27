@@ -271,9 +271,7 @@ img {
     z-index: -1;
 }
 
-.hero {
- background-image: url("mirror_project.png");
-}
+.hero background-image: url("mirror_project.png");
    img {
   max-width: 100%;
   height: auto;
@@ -909,6 +907,7 @@ textarea.form-input {
         padding: 40px 20px;
     }
 }
+
 
 
 
